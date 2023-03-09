@@ -6,9 +6,7 @@
 
 ## 我的项目
 
-- [一个简单的计算器](https://bing.github.io/calculator/)
-- [一个漂亮的日历](https://bing.github.io/calendar/)
-- [一个有趣的小游戏](https://bing.github.io/game/)
+
 
 ## 我的联系方式
 
